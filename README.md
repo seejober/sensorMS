@@ -1,2 +1,2 @@
-# sensorMS
-Sensor monitoring system
+# SMS
+Sensor Monitoring System
